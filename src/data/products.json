@@ -1,0 +1,64 @@
+[
+  {
+    "id": "men-1",
+    "title": "Men’s Oversized Graphic T-Shirt – Black",
+    "category": "men",
+    "price": 499,
+    "mrp": 699,
+    "discount": "28% OFF",
+    "description": "Comfort meets style in this premium oversized T-shirt. Perfect for everyday wear with a modern streetwear vibe.",
+    "features": [
+      "100% Premium Cotton",
+      "Soft & Breathable Fabric",
+      "Oversized Fit",
+      "Durable Print Quality",
+      "Skin-Friendly Material"
+    ],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800",
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "tags": ["trending"]
+  },
+  {
+    "id": "men-2",
+    "title": "Men’s Classic White Tee",
+    "category": "men",
+    "price": 399,
+    "mrp": 599,
+    "discount": "33% OFF",
+    "description": "A must-have basic for every man's wardrobe.",
+    "features": ["100% Cotton", "Classic Fit"],
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?auto=format&fit=crop&q=80&w=800",
+    "isBestSeller": true,
+    "isNewArrival": true,
+    "tags": ["summer"]
+  },
+  {
+    "id": "women-1",
+    "title": "Women’s Pastel Pink Tee",
+    "category": "women",
+    "price": 449,
+    "mrp": 649,
+    "discount": "30% OFF",
+    "description": "Soft, stylish, and expressive. Perfect for a casual day out.",
+    "features": ["Soft Fabric", "Flattering Fit"],
+    "image": "https://images.unsplash.com/photo-1554568218-0f1715e72254?auto=format&fit=crop&q=80&w=800",
+    "isBestSeller": true,
+    "isNewArrival": false,
+    "tags": ["trending"]
+  },
+  {
+    "id": "kids-1",
+    "title": "Kids’ Dino Print Tee",
+    "category": "kids",
+    "price": 299,
+    "mrp": 499,
+    "discount": "40% OFF",
+    "description": "Fun, colorful, and super comfy for your little ones.",
+    "features": ["Kid-safe prints", "All-day comfort"],
+    "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?auto=format&fit=crop&q=80&w=800",
+    "isBestSeller": false,
+    "isNewArrival": true,
+    "tags": ["printed"]
+  }
+]
